@@ -58,7 +58,7 @@ export default function Home() {
           >
             Documentation 
           </a>
-          <h1>HELLO W O R  L D !</h1>
+          <h1>HELLO WORLD! </h1>
         </div>
       </main>
     </div>
