@@ -59,6 +59,7 @@ export default function Home() {
             Documentation 
           </a>
           <h1>HELLO TEAM NEXSTAIR! </h1>
+          <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum, esse?</p>
         </div>
       </main>
     </div>
