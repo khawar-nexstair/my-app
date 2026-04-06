@@ -58,7 +58,7 @@ export default function Home() {
           >
             Documentation 
           </a>
-          <h1>HELLO WORLD! </h1>
+          <h1>HELLO TEAM NEXSTAIR! </h1>
         </div>
       </main>
     </div>
